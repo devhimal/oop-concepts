@@ -25,19 +25,22 @@ This repository contains solutions to various C++ programming problems. The assi
 
 2. **Swap Variables:**
    - Write a C++ program that swaps two variables without using a third variable.
+   ![Getting Started](./docs/images/q2.png)
 
 3. **Swap First and Last Digits:**
    - Write a C++ program to swap the first and last digits of any number.
+   ![Getting Started](./docs/images/q3.png)
 
 4. **Sum of Digits Between Integers:**
    - Write a C++ program to add up all the digits between two given integers.
+   ![Getting Started](./docs/images/q4.png)
 
 5. **Top Three Numbers:**
    - Write a C++ program that prints the three highest numbers from a list in descending order.
-
+   ![Getting Started](./docs/images/q5.png)
 6. **Sum and Digit Count:**
    - Write a C++ program to compute the sum of two given integers and count the number of digits in the sum value.
-
+   ![Getting Started](./docs/images/q6.png)
 7. **Factorial Calculation:**
    - Write a C++ program that reads an integer and prints its factorial.
 
