@@ -21,6 +21,7 @@ This repository contains solutions to various C++ programming problems. The assi
 
 1. **Reverse Name:**
    - Write a C++ program that accepts the user's first and last name and prints them in reverse order with a space between them.
+   ![Getting Started](./images/q1.jpg)
 
 2. **Swap Variables:**
    - Write a C++ program that swaps two variables without using a third variable.
